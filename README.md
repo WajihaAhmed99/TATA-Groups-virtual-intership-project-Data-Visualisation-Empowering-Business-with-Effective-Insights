@@ -1,7 +1,7 @@
 # TATA-Groups-virtual-intership-project-Data-Visualisation-Empowering-Business-with-Effective-Insights
 This Virtual internship is about gaining  insights into leveraging data visualisations as a tool for making informed business decisions.
 ## About the Project
-An online retail store has hired me as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year. 
+In this virtual internship, as a consultant for an online retail store, I ensured data quality, made changes in Excel, analyzed revenue factors enabling strategic planning for the upcoming year using Tableau, and presented key findings in PowerPoint.
 ## Tools use in this project
 * 1.Excel for Data Analysis and Data Transformation
 * 2.Tableau for Data Visulization
